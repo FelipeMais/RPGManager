@@ -14,3 +14,4 @@ Como iniciar o projeto:
 
 5- Com o projeto rodando basta inserir o usuário, senha e a url da conexão do banco de dados (definadas na primeira etapa), e utilizar o programa)
 
+6 - link da apresentação: https://youtu.be/QzV8hE5EVS8

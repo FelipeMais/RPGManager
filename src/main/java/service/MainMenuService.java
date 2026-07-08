@@ -3,7 +3,7 @@ package service;
 import util.Option;
 
 import java.sql.SQLException;
-//comentario para teste
+
 public class MainMenuService extends MenuService {
     private final ItemService itemService;
     private final LocationService locationService;
